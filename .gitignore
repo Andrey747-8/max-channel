@@ -1,0 +1,5 @@
+config.env
+poster.log
+published.txt
+__pycache__/
+cron.log
